@@ -1,0 +1,2 @@
+# Student-management-system
+In this project i have create an Enumeration class for section it contain 4 section object.section contain name registration number and section registration number and registration number is automatically assigned to the section.i have used file for store the registration number and other attribute.if i give registration number on the input console it will show all the information.if registered number is wrong it will raise exception. i also Apply exception handling to allow the user to re-enter the registration number.
